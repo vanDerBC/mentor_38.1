@@ -1,7 +1,7 @@
 Oppgave 1: Gjett et tall
 Lag et program som velger et tilfeldig tall mellom 1 og 10, og så lar brukeren gjette tallet.
 Programmet skal gi beskjed om brukeren har rett eller feil.
-Krav
+Krav 
 1. Bruk random.randrange() for å generere et tilfeldig tall fra 1 til 10
 2. Bruk en if-sjekk
 Utskrift kan se slik ut:
@@ -14,6 +14,10 @@ Oppgave 2: Skriv ut tall i en liste
 Opprett en tom liste og bruk en for-løkke til å legge til tallene 1 til 10 i denne listen. Print så ut listen til
 slutt for å se om du har gjort det riktig.
 Krav:
+
+
+
+
 1. Opprett en tom liste
 2. Bruk en for-løkke for å legge til tall I den tomme listen
 3. Skriv ut hele listen. Dette kan gjøres med eller uten en for-løkke.
